@@ -1,2 +1,6 @@
-# figure-anatomy
-Anatomy of a matplotlib figure
+# Anatomy of a figure
+
+A simple matplotlib figure describing a matplotlib figure.
+
+![](anatomy.png)
+
